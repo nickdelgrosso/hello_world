@@ -23,5 +23,6 @@ hello world
 ### Javascript
 
 ```javascript
+console.log("hello World");
 hello world
 ```

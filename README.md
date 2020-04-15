@@ -5,6 +5,7 @@ Here is how you type hello world in different languages
 ### Java
 
 ```java
+System.out.println("Hello World!")
 hello world
 ```
 

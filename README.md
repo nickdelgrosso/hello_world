@@ -5,6 +5,7 @@ Here is how you type hello world in different languages
 ### Java
 
 ```java
+System.out.println("Hello World!")
 hello world
 ```
 
@@ -20,9 +21,8 @@ hello world
 hello world
 ```
 
-### Javascript
+### Javascript 
 
 ```javascript
 console.log("hello World");
-hello world
 ```

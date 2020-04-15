@@ -17,10 +17,10 @@ print ("Hello world")
 ### HTML
 
 ```html
-<h1>hello world</h1>
+<h2>hello world</h2>
 ```
 
-### Javascript 
+### Javascript
 
 ```javascript
 console.log("hello World");

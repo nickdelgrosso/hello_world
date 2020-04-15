@@ -24,6 +24,5 @@ hello world
 ### Javascript 
 
 ```javascript
-document.write("<h1>Hello World</h1>")
-hello world 
+console.log("hello World");
 ```

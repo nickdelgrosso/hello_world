@@ -25,3 +25,8 @@ hello world
 ```javascript
 hello world
 ```
+### C
+
+``` C
+printf("Hello World")
+```

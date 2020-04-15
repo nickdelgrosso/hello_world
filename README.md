@@ -20,8 +20,9 @@ hello world
 hello world
 ```
 
-### Javascript
+### Javascript 
 
 ```javascript
-hello world
+document.write("<h1>Hello World</h1>")
+hello world 
 ```

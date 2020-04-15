@@ -17,7 +17,7 @@ print ("Hello world")
 ### HTML
 
 ```html
-hello world
+<h1>hello world</h1>
 ```
 
 ### Javascript 

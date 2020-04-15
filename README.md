@@ -6,14 +6,12 @@ Here is how you type hello world in different languages
 
 ```java
 System.out.println("Hello World!")
-hello world
 ```
 
 ### Python
 
 ```python
 print ("Hello world")
-hello world
 ```
 
 ### HTML

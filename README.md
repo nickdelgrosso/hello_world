@@ -25,3 +25,8 @@ print ("Hello world")
 ```javascript
 console.log("hello World");
 ```
+### C
+
+``` C
+printf("Hello World")
+```
